@@ -1,0 +1,1 @@
+This Django based mini web application allows the administrator to create airports, flights and add passengers in the flight.
